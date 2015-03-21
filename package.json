@@ -1,0 +1,19 @@
+{
+  "name": "ojala",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "coffee -c index.coffee; node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/peterkhayes/ojala.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterkhayes/ojala/issues"
+  },
+  "homepage": "https://github.com/peterkhayes/ojala"
+}
